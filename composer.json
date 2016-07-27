@@ -1,0 +1,25 @@
+{
+    "name": "tamchinglol/gitproject",
+    "description": "tamchinglol usedto test git connect composer at sunaw",
+    "type": "project",
+    "keywords": [
+        "framework",
+        "thinkphp",
+        "ORM"
+    ],
+    "homepage": "http://http://www.sunaw.net/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "TAMCHINGLOL",
+            "email": "tamchinglol@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "preferred-install": "dist"
+    }
+}
