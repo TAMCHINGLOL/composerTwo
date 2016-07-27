@@ -1,7 +1,7 @@
 {
     "name": "tamchinglol/gitproject",
     "description": "tamchinglol usedto test git connect composer at sunaw",
-    "type": "project",
+    "type": "tamchinglol-gitproject",
     "keywords": [
         "framework",
         "thinkphp",
